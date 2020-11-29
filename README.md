@@ -3,5 +3,5 @@
 <a href="https://www.facebook.com/InnovationbyAnalupadhyay/"><img src="584ac2d03ac3a570f94a666d.png" alt="Facebook" align="left" height="48" width="48" ></a> 
 <a href="https://twitter.com/InnovationInyou"><img src="580b57fcd9996e24bc43c53e.png" alt="Twitter" align="left" height="48" width="48" ></a> 
 <a href="https://github.com/InnovationInyou"><img src="25231.png" alt="github" align="left" height="48" width="48" ></a> 
-<a href="https://www.reddit.com/u/Creativeinsaan/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"><img src="youtube_social_icon_red.png" alt="reddit" align="left" height="48" width="82" ></a>
+<a href="https://www.reddit.com/u/Creativeinsaan/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"><img src="iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png" alt="reddit" align="left" height="48" width="82" ></a>
 <a href="https://instagram.com/innovationin_you?igshid=1fkp8yasn425p"><img src="youtube_social_icon_red.png" alt="Instagram" align="left" height="48" width="82" ></a> 
