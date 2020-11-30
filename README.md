@@ -11,7 +11,4 @@
 
 <a align="right" href="https://www.reddit.com/u/Creativeinsaan/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"><img src="iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png" alt="reddit" align="right" height="48" width="48" ></a>
 
-<!-- <br /> -->
-<!-- --- -->
-
 <a align="left" href="https://instagram.com/innovationin_you?igshid=1fkp8yasn425p"><img src="7172161b580470deb78078669236d2c1.jpg" alt="Instagram" align="left" height="48" width="48" ></a> 
