@@ -12,7 +12,7 @@
 
 <a href="https://twitter.com/InnovationInyou"><img src="twitter-logo-icon-voronezh-russia-november-square-light-blue-color-164586095.jpg" alt="Twitter" align="bottom" height="45" width="45" ></a>
 
-<a href="https://github.com/InnovationInyou"><img src="github_PNG40.png" alt="github" align="bottom" height="45" width="45" ></a>
+<a href="https://github.com/InnovationInyou"><img src="github_PNG40.png" alt="github" align="bottom" height="50" width="50" ></a>
 
 
 
