@@ -10,7 +10,7 @@
 
 <a href="https://www.facebook.com/InnovationbyAnalupadhyay/"><img src="Facebook-Logo.png" alt="Facebook" align="bottom" height="45" width="45" ></a> 
 
-<a href="https://twitter.com/InnovationInyou"><img src="twitter-logo-icon-voronezh-russia-november-square-light-blue-color-164586095.png" alt="Twitter" align="bottom" height="45" width="45" ></a>
+<a href="https://twitter.com/InnovationInyou"><img src="twitter-logo-icon-voronezh-russia-november-square-light-blue-color-164586095.jpg" alt="Twitter" align="bottom" height="45" width="45" ></a>
 
 <a href="https://github.com/InnovationInyou"><img src="25231.png" alt="github" align="bottom" height="45" width="45" ></a>
 
