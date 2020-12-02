@@ -1,4 +1,4 @@
-<a href="http://linkedin.com/in/analupadhyay1998"><img src="Linkedin-Logo-2003–2011.png" alt="LinkedIn" align="bottom" height="55" width="100" ></a>
+<a href="http://linkedin.com/in/analupadhyay1998"><img src="download.png" alt="LinkedIn" align="bottom" height="45" width="45" ></a>
 
 <a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="123-1235246_youtube-ndash-logos-brands-and-logotypes-youtube-logo.png" alt="YouTube" align="bottom" height="45" width="45" ></a>
 
