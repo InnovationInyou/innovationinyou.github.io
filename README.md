@@ -2,7 +2,7 @@
 
 <a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="youtube_social_icon_red.png" alt="YouTube" align="bottom" height="48" width="78" ></a>
 
-<a href="mailto:innovationinyou06@gmail.com"><img src="200px-Gmail_icon_(2020).svg" alt="Gmail" align="bottom" height="40" width="55" ></a>
+<a href="mailto:innovationinyou06@gmail.com"><img src="200px-Gmail_icon_(2020).svg.webp" alt="Gmail" align="bottom" height="40" width="55" ></a>
 
 <a href="https://www.facebook.com/InnovationbyAnalupadhyay/"><img src="584ac2d03ac3a570f94a666d.png" alt="Facebook" align="bottom" height="45" width="45" ></a> 
 
