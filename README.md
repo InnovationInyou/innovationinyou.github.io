@@ -8,7 +8,7 @@
 
 <a href="https://instagram.com/innovationin_you?igshid=1fkp8yasn425p"><img src="580b57fcd9996e24bc43c521.png" alt="Instagram" align="bottom" height="45" width="45" ></a> *Like & Follow*
 
-<a href="https://github.com/InnovationInyou"><img src="github_PNG40.png" alt="github" align="bottom" height="50" width="50" ></a> *Follow 
+<a href="https://github.com/InnovationInyou"><img src="github_PNG40.png" alt="github" align="bottom" height="50" width="50" ></a> *Follow* 
 
 <a href="https://twitter.com/InnovationInyou"><img src="twitter-logo-icon-voronezh-russia-november-square-light-blue-color-164586095.jpg" alt="Twitter" align="bottom" height="45" width="45" ></a> *Like & Follow* 
 
