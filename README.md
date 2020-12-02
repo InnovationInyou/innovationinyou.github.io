@@ -1,5 +1,5 @@
-<a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="youtube_social_icon_red.png" alt="YouTube" align="bottom" height="48" width="78" ></a> 
-<h1>YouTube</h1>
+<a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="youtube_social_icon_red.png" alt="YouTube" align="bottom" height="48" width="78" ></a><h1>YouTube</h1>
+
 <a href="http://linkedin.com/in/analupadhyay1998"><img src="Linkedin-Logo-2003–2011.png" alt="LinkedIn" align="bottom" height="55" width="100" ></a> 
 
 <a href="https://www.facebook.com/InnovationbyAnalupadhyay/"><img src="584ac2d03ac3a570f94a666d.png" alt="Facebook" align="bottom" height="45" width="45" ></a> 
