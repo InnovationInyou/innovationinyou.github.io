@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="youtube_social_icon_red.png" alt="YouTube" align="bottom" height="48" width="78" > 
+<a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="youtube_social_icon_red.png" alt="YouTube" align="bottom" height="48" width="78" > YouTube </a> 
   
 <a href="http://linkedin.com/in/analupadhyay1998"><img src="Linkedin-Logo-2003–2011.png" alt="LinkedIn" align="bottom" height="55" width="100" ></a>    
   
