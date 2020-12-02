@@ -4,7 +4,7 @@
 
 <a href="http://linkedin.com/in/analupadhyay1998"><img src="Flat-Icon-In-Flat-Linked-In-Linked-Icon-2674741.png" alt="LinkedIn" align="bottom" height="45" width="45" ></a>
 
-<a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="de1c91788be0d791135736995109272a.png" alt="YouTube" align="bottom" height="70" width="60" ></a>
+<a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="de1c91788be0d791135736995109272a.png" alt="YouTube" align="bottom" height="70" width="50" ></a>
 
 <a href="mailto:innovationinyou06@gmail.com"><img src="200px-Gmail_icon_(2020).svg.webp" alt="Gmail" align="bottom" height="40" width="40" ></a>
 
