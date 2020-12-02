@@ -8,7 +8,7 @@
 
 <a href="mailto:innovationinyou06@gmail.com"><img src="1200px-Gmail_icon_(2020).svg.png" alt="Gmail" align="bottom" height="40" width="45" ></a>
 
-<a href="https://www.facebook.com/InnovationbyAnalupadhyay/"><img src="584ac2d03ac3a570f94a666d.png" alt="Facebook" align="bottom" height="40" width="40" ></a> 
+<a href="https://www.facebook.com/InnovationbyAnalupadhyay/"><img src="Facebook-Logo.png" alt="Facebook" align="bottom" height="45" width="45" ></a> 
 
 <a href="https://twitter.com/InnovationInyou"><img src="580b57fcd9996e24bc43c53e.png" alt="Twitter" align="bottom" height="45" width="45" ></a>
 
