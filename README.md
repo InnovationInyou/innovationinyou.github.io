@@ -1,4 +1,4 @@
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfNkhpMMMvwpMcsi17-WZVwre3kAdkVVo79dgw8EGU6BAf7jw/viewform?vc=0&c=0&w=1&flr=0"><img src="1200px-Google_Forms_2020_Logo.svg.png" alt="Google Form" align="bottom" height="40" width="45" ></a>***Webinar Link***
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfNkhpMMMvwpMcsi17-WZVwre3kAdkVVo79dgw8EGU6BAf7jw/viewform?vc=0&c=0&w=1&flr=0"><img src="1200px-Google_Forms_2020_Logo.svg.png" alt="Google Form" align="bottom" height="50" width="45" ></a> ***Webinar Link***
 
 <a href="https://www.youtube.com/channel/UC5TCo8gN5fILJ2sojGcOpxA"><img src="youtube_social_icon_red.png" alt="YouTube" align="bottom" height="40" width="45" ></a> *Like, Share & Subscribe*
 
